@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Blood-Type-ML
 =======
 # Blood Shortage ML — University Research Prototype

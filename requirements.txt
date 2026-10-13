@@ -1,0 +1,13 @@
+# CMD: python -m pip install -r requirements.txt
+# Dependencies for notebooks, local training, and the Streamlit dashboard.
+numpy>=1.26,<3
+pandas>=2.2,<3
+scikit-learn>=1.5,<2
+xgboost>=2.1,<4
+joblib>=1.4,<2
+plotly>=5.24,<7
+streamlit>=1.39,<2
+jupyterlab>=4,<5
+ipykernel>=6,<8
+nbformat>=5,<6
+matplotlib>=3.8,<4

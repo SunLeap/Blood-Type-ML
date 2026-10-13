@@ -1,5 +1,5 @@
 # Blood-Type-ML
-=======
+
 # Blood Shortage ML — University Research Prototype
 
 This is a complete, local, **no-backend** ML project using the real `Zhejiang_blood_donation.csv` dataset. It compares three classifiers for **next-week** shortage-risk labels (High / Medium / Low) and three regressors for next-week demand (A / B / O / AB). A Streamlit dashboard demonstrates the model comparisons, observational indicators, forecasts and risk alerts.

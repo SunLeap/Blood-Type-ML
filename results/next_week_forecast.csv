@@ -1,0 +1,5 @@
+blood_type,last_observed_week,observed_coverage,observed_efficiency,observed_risk,observed_demand,observed_supply,forecast_week,predicted_risk,risk_confidence,p_high,p_medium,p_low,predicted_risk_high_recall_mode,high_recall_threshold,predicted_demand,risk_alert,risk_alert_high_recall_mode,classifier,regressor
+A,2024-06-17,0.9958333333333333,1.0202339281140613,Medium,1800.0,1792.5,2024-06-24,Medium,0.555522,0.0059977868,0.555522,0.43848017,Medium,0.175,1570.1954,NOTICE,NOTICE,XGBoost,XGBoost
+B,2024-06-17,0.9976666666666667,0.9224842040376021,Medium,1500.0,1496.5,2024-06-24,Low,0.6656542,0.016342867,0.31800297,0.6656542,Low,0.175,1504.0403,NONE,NONE,XGBoost,XGBoost
+O,2024-06-17,0.9265217391304348,1.0885500472505298,Medium,2300.0,2131.0,2024-06-24,Medium,0.7199578,0.037218537,0.7199578,0.24282366,Medium,0.175,1933.2937,NOTICE,NOTICE,XGBoost,XGBoost
+AB,2024-06-17,0.981,0.9752460483149419,Medium,500.0,490.5,2024-06-24,Low,0.7926074,0.0043090726,0.20308356,0.7926074,Low,0.175,420.28198,NONE,NONE,XGBoost,XGBoost

@@ -1,0 +1,13 @@
+family,feature_set,n_features,cv_macro_f1
+Decision Tree,all,61,0.48643475746787923
+Decision Tree,original,34,0.42382120561865044
+Decision Tree,extended,47,0.4245005124827089
+Decision Tree,selected,10,0.4318464222096821
+Random Forest,all,61,0.521974228814377
+Random Forest,original,34,0.497245178417395
+Random Forest,extended,47,0.5126401874493882
+Random Forest,selected,17,0.5032490316047314
+XGBoost,all,61,0.5196129493214219
+XGBoost,original,34,0.5268481701927655
+XGBoost,extended,47,0.512044431220054
+XGBoost,selected,56,0.5202669898644372

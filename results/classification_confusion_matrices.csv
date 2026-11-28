@@ -1,0 +1,73 @@
+model,mode,actual,predicted,count
+Decision Tree,standard,High,High,7
+Decision Tree,standard,High,Medium,28
+Decision Tree,standard,High,Low,7
+Decision Tree,standard,Medium,High,16
+Decision Tree,standard,Medium,Medium,179
+Decision Tree,standard,Medium,Low,25
+Decision Tree,standard,Low,High,3
+Decision Tree,standard,Low,Medium,72
+Decision Tree,standard,Low,Low,45
+Decision Tree,high_recall_mode,High,High,27
+Decision Tree,high_recall_mode,High,Medium,12
+Decision Tree,high_recall_mode,High,Low,3
+Decision Tree,high_recall_mode,Medium,High,112
+Decision Tree,high_recall_mode,Medium,Medium,85
+Decision Tree,high_recall_mode,Medium,Low,23
+Decision Tree,high_recall_mode,Low,High,39
+Decision Tree,high_recall_mode,Low,Medium,38
+Decision Tree,high_recall_mode,Low,Low,43
+Random Forest,standard,High,High,9
+Random Forest,standard,High,Medium,29
+Random Forest,standard,High,Low,4
+Random Forest,standard,Medium,High,22
+Random Forest,standard,Medium,Medium,151
+Random Forest,standard,Medium,Low,47
+Random Forest,standard,Low,High,2
+Random Forest,standard,Low,Medium,67
+Random Forest,standard,Low,Low,51
+Random Forest,high_recall_mode,High,High,22
+Random Forest,high_recall_mode,High,Medium,16
+Random Forest,high_recall_mode,High,Low,4
+Random Forest,high_recall_mode,Medium,High,50
+Random Forest,high_recall_mode,Medium,Medium,123
+Random Forest,high_recall_mode,Medium,Low,47
+Random Forest,high_recall_mode,Low,High,16
+Random Forest,high_recall_mode,Low,Medium,53
+Random Forest,high_recall_mode,Low,Low,51
+XGBoost,standard,High,High,6
+XGBoost,standard,High,Medium,31
+XGBoost,standard,High,Low,5
+XGBoost,standard,Medium,High,15
+XGBoost,standard,Medium,Medium,165
+XGBoost,standard,Medium,Low,40
+XGBoost,standard,Low,High,2
+XGBoost,standard,Low,Medium,74
+XGBoost,standard,Low,Low,44
+XGBoost,high_recall_mode,High,High,21
+XGBoost,high_recall_mode,High,Medium,16
+XGBoost,high_recall_mode,High,Low,5
+XGBoost,high_recall_mode,Medium,High,47
+XGBoost,high_recall_mode,Medium,Medium,134
+XGBoost,high_recall_mode,Medium,Low,39
+XGBoost,high_recall_mode,Low,High,10
+XGBoost,high_recall_mode,Low,Medium,66
+XGBoost,high_recall_mode,Low,Low,44
+Ensemble (RF + XGBoost),standard,High,High,7
+Ensemble (RF + XGBoost),standard,High,Medium,30
+Ensemble (RF + XGBoost),standard,High,Low,5
+Ensemble (RF + XGBoost),standard,Medium,High,17
+Ensemble (RF + XGBoost),standard,Medium,Medium,161
+Ensemble (RF + XGBoost),standard,Medium,Low,42
+Ensemble (RF + XGBoost),standard,Low,High,2
+Ensemble (RF + XGBoost),standard,Low,Medium,72
+Ensemble (RF + XGBoost),standard,Low,Low,46
+Ensemble (RF + XGBoost),high_recall_mode,High,High,20
+Ensemble (RF + XGBoost),high_recall_mode,High,Medium,17
+Ensemble (RF + XGBoost),high_recall_mode,High,Low,5
+Ensemble (RF + XGBoost),high_recall_mode,Medium,High,44
+Ensemble (RF + XGBoost),high_recall_mode,Medium,Medium,135
+Ensemble (RF + XGBoost),high_recall_mode,Medium,Low,41
+Ensemble (RF + XGBoost),high_recall_mode,Low,High,13
+Ensemble (RF + XGBoost),high_recall_mode,Low,Medium,61
+Ensemble (RF + XGBoost),high_recall_mode,Low,Low,46

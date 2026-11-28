@@ -1,0 +1,13 @@
+family,feature_set,n_features,cv_mae
+Decision Tree,all,61,136.10964262899876
+Decision Tree,original,34,138.57076949784
+Decision Tree,extended,47,143.45438459756713
+Decision Tree,selected,12,139.19100341294637
+Random Forest,all,61,122.96958095509893
+Random Forest,original,34,123.5959861745307
+Random Forest,extended,47,123.30261119567055
+Random Forest,selected,44,122.08042142313546
+XGBoost,all,61,119.82416480329059
+XGBoost,original,34,121.34732698898277
+XGBoost,extended,47,120.7204339546579
+XGBoost,selected,41,119.07494129159619
